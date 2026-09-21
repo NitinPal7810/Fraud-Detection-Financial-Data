@@ -190,16 +190,6 @@ These rules are intended as **risk-screening indicators** that could be combined
 
 ---
 
-## ⚠️ Disclaimer
-
-This project uses a **synthetically generated dataset** for educational and portfolio purposes.
-
-The fraud labels and transaction patterns were intentionally generated to demonstrate SQL-based fraud detection techniques.
-
-The results should not be interpreted as findings from a real financial institution or real customer transactions.
-
----
-
 ## 👨‍💻 Author
 
 **Nitin Pal**
