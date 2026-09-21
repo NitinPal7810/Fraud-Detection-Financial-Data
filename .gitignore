@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large generated dataset
+data/*.csv
+
+# macOS files
+.DS_Store
