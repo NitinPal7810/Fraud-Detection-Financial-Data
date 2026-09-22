@@ -145,38 +145,6 @@ Among transactions with sender balance drops above ₹50K:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Fraud-Detection-Financial-Data/
-│
-├── data/
-│   └── transactions.csv
-│
-├── sql/
-│   └── fraud_analysis.sql
-│
-├── screenshots/
-│
-├── generate_data.py
-├── README.md
-└── .gitignore
-
-The generated CSV dataset is excluded from GitHub because of its large file size.
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-url>
-cd Fraud-Detection-Financial-Data
-```
-
----
-
 ## 📌 Business Monitoring Rules
 
 | Rule | Purpose |
